@@ -1,11 +1,11 @@
-
-<img align="center" width="400" src="https://i.gifer.com/3AyY.gif" />
-
+![logo](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 <h1 align="center">Hi 👋, I'm Khemraj Saud</h1>
 <h3 alig="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif"/>
 
-<img align="center" width="400" src="https://i.gifer.com/3AyY.gif" />
+
+
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemrajsaud&label=Profile%20views&color=0e75b6&style=flat" alt="khemrajsaud" /> </p>
